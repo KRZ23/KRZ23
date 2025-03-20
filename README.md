@@ -1,40 +1,56 @@
-# <p align="center">👋 ¡Hola, soy Cristopher Spier!</p> 
+<div align="center">
 
-### 💻 Sobre mí  
-Soy estudiante de **Ingeniería en Sistemas e Informática**, apasionado por el desarrollo web y la optimización de bases de datos. Actualmente, trabajo en proyectos con **Laravel**, siguiendo buenas prácticas como **SOLID** y patrones de diseño. Me interesa la mejora del rendimiento en aplicaciones y la implementación de soluciones eficientes.
+### Hola, soy Cristopher Rivera 👋🚀
 
----
+Soy un estudiante de Ingeniería en Sistemas e Informática apasionado por el desarrollo web y la creación de soluciones eficientes. Me especializo en Laravel y React, y disfruto optimizando bases de datos y desarrollando aplicaciones escalables.  
 
-## 🚀 Skills  
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🚀 Tecnologías y Herramientas
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> 
 </p>
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats  
+### 📊 Estadísticas de GitHub
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KRZ23&show_icons=true&theme=radical&hide_border=true" alt="KRZ23's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRZ23&layout=compact&theme=radical" alt="Top Langs">
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🌐 Conéctate conmigo
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRZ23&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-
----
-
-## 📫 Contacto  
-<p align="center">
-  <a href="mailto:cristopherspier23@gmail.com" aria-hidden="true">
+  <a href="mailto:cristopherspier23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/KRZ23" aria-hidden="true">
+  <a href="https://github.com/KRZ23">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/crissaenzk/" aria-hidden="true">
+  <a href="https://www.instagram.com/crissaenzk/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.threads.net/@crissaenzk" aria-hidden="true">
+  <a href="https://www.threads.net/@crissaenzk">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
   </a>
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ✨ Frase Favorita  
+*"Al amor regalado, no le mires el caballo."* — Santiago Tavella  
