@@ -22,22 +22,6 @@ Soy un estudiante de Ingeniería en Sistemas e Informática apasionado por el de
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 Estadísticas de GitHub
-
-<table align="center" style="vertical-align: top;">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img  align="center" src="https://github-readme-stats.vercel.app/api?username=KRZ23&theme=radical&show_icons=true&hide_border=true" />
-    </td>
-    <td width="50%" align="center">
-      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRZ23&layout=compact&theme=radical&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### 🌐 Conéctate conmigo
 
 <p align="center">
@@ -59,4 +43,4 @@ Soy un estudiante de Ingeniería en Sistemas e Informática apasionado por el de
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✨ Frase Favorita  
-*"Al amor regalado, no le mires el caballo."* — Santiago Tavella  
+*"El tiempo solo cura lo que ya no importa."*    
